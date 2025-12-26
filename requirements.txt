@@ -1,0 +1,12 @@
+streamlit
+deep-translator
+gtts
+pydub
+Speechrecognition
+easyocr
+plotly
+sentence-transformers
+opencv-python-headless
+pandas
+numpy
+torch
