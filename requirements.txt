@@ -1,0 +1,8 @@
+streamlit
+deep-translator
+gtts
+pydub
+Speechrecognition
+easyocr
+plotly
+
